@@ -1,17 +1,19 @@
 # toxi-ui
 <b>This is my personal edit of ElvUI!</b>
 I am not familiar with LUA coding, so if something doesn't work, I doubt I can help you, lol.
-
-<ul><b>YOU WILL NEED THESE ADDONS!</b>
+<hr>
+<h2><b>YOU WILL NEED THESE ADDONS!</b></h2>
+<ul>
   <li>ElvUI</li>
   <li>Details! Damage Meter</li>
   <li>Plater</li>
   <li>ElvUI S&L (optional)</li>
   <li><a href="https://github.com/Vicious-wow/XIV_Databar">XIV Databar</a></li>
   <li>Weak Auras</li>
-
+  </ul>
+<hr>
+<h2>Installation guide:</h2>
 <ol>
-  Installation guide:
   <li>Download all of the files in this github.</li>
   <li>Add the 2 fonts to <b>\World of Warcraft\_retail_\Interface\AddOns\ElvUI\Media\Fonts</b></li>
   <li><ul>Font installation
@@ -28,5 +30,5 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
  <li>Import the profiles of <b>ElvUI, Details!, Plater</b></li>
  <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
  </ol>
- 
- Hope this works, happy using :)
+ <hr>
+ <h3>Hope this works, happy using :)</h3>
