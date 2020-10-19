@@ -42,13 +42,3 @@ I am constantly updating and doing changes to my UI, so head down to <a href="ht
  <img src="https://preview.redd.it/ndnalfwg1pt51.jpg?width=2560&format=pjpg&auto=webp&s=0e357fa73784d520c598bcba4f34491b84ca5c72">
  <img src="https://preview.redd.it/xxo5obxg1pt51.jpg?width=2560&format=pjpg&auto=webp&s=9747a9bb1c271b644108cfb220f273cc2694fc65">
  <img src="https://preview.redd.it/ych9ocwg1pt51.jpg?width=2560&format=pjpg&auto=webp&s=3d1bff58f834b69c420c336f4ba823adce832ef4">
- 
- <h3>To do list:</h3>
-<ul>
-  <li>Tidy up the Readme.md</li>
-  <li>Tidy up the github, use only <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> for downloads</li>
-  <li>Make an installation guide video</li>
-  <li>Make a Luxthos WA implementation guide</li>
-  <li>Fix font inconsistencies across UI</li>
-  <li>Test and fix Party and Raid Unit Frames</li>
-</ul>
