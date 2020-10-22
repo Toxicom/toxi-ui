@@ -22,19 +22,31 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 <h2>Installation guide:</h2>
 <ol>
   <li>Download necessary files from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
-  <li>Add the 2 fonts to <b>\World of Warcraft\_retail_\Interface\AddOns\ElvUI\Media\Fonts</b></li>
+  <li>Add the <s>2</s> <b>1</b> <s>fonts</s> <b>font</b> to <b>\World of Warcraft\_retail_\Interface\AddOns\ElvUI\Media\Fonts</b></li>
   <li><ul>Font installation
 
 <li>If this is a fresh ElvUI install and you're not afraid to break anything:
   <b>add SharedMedia.lua to \World of Warcraft\_retail_\Interface\AddOns\ElvUI\Media\</b></li>
 <li>If you're afraid to lose some of your ElvUI profiles etc.:
-  <b>open up SharedMedia.lua and manually add the font lines, like this:</b></li></ul>
+  <b>open up SharedMedia.lua and manually add the font line, like this:</b></li></li></ul>
   
-  ```
-  AddMedia('font','Homizio_Bold.ttf',			'Homizio Bold')
+ ```
   AddMedia('font','BebasNeue-Regular.ttf',			'Bebas Neue')
  ```
  <li>Import the profiles of <b>ElvUI, Details!, Plater</b></li>
  <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
  </ol>
-
+<hr>
+<h3>To enable UnitFrames fading back:</h3>
+<ol>
+<li>Type /ec</li>
+<li>Navigate to UnitFrames -> Individual Units -> Player -> Fader</li>
+<li>Check <b>Enable</b></li>
+<li>Repeat the same for Unitframes -> Individual Units -> <b>Target</b> -> Fader</li>
+</ol>
+<h3>To enable ActionBars fading back:</h3>
+<ol>
+<li>Type /ec</li>
+<li>Navigate to Action Bars -> Player Bars</li>
+<li>Enable <b>Inherit Global Fade</b> for every bar that you want to fade</li>
+</ol>
