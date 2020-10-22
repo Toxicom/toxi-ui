@@ -10,6 +10,7 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 <h3>SharedMedia AddOn is still not updated for Shadowlands Pre-patch, therefore we have to import fonts manually via ElvUI. Every time you update ElvUI, you have to add fonts again.. If there's an easier way for that, lemme know.</h3>
 <hr>
 <h2><b>YOU WILL NEED THESE ADDONS!</b></h2>
+<h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
 <ul>
   <li><a href="https://www.tukui.org/download.php?client=win">ElvUI</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/details">Details! Damage Meter</a></li>
