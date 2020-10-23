@@ -15,7 +15,8 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
   <li><a href="https://www.tukui.org/download.php?client=win">ElvUI</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/details">Details! Damage Meter</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates">Plater</a></li>
-  <li><a href="https://www.tukui.org/download.php?client=win">ElvUI S&L (optional)</a></li>
+  <li><a href="https://www.tukui.org/download.php?client=win">ElvUI S&L</a></li>
+  <li><a href="https://www.tukui.org/download.php?client=win">ElvUI ProjectAzilroka</a> for the Bezo texture</li>
   <li><a href="https://github.com/Vicious-wow/XIV_Databar">XIV Databar</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/weakauras-2">Weak Auras</a></li>
   </ul>
