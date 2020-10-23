@@ -12,14 +12,14 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 <h2><b>YOU WILL NEED THESE ADDONS!</b></h2>
 <h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
 <ul>
-  <li><a href="https://www.tukui.org/download.php?client=win">ElvUI</a></li>
-  <li><a href="https://www.curseforge.com/wow/addons/details">Details! Damage Meter</a></li>
-  <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates">Plater</a></li>
-  <li><a href="https://www.tukui.org/download.php?client=win">ElvUI S&L</a></li>
-  <li><a href="https://www.tukui.org/download.php?client=win">ElvUI ProjectAzilroka</a> for the Bezo texture</li>
-  <li><a href="https://github.com/Vicious-wow/XIV_Databar">XIV Databar</a></li>
-  <li><a href="https://www.curseforge.com/wow/addons/weakauras-2">Weak Auras</a></li>
-  <li><a href="https://wago.io/IconSkins">WA for Icon Skinning</a></li>
+  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI</a></li>
+  <li><a href="https://www.curseforge.com/wow/addons/details" target="_blank">Details! Damage Meter</a></li>
+  <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates" target="_blank">Plater</a></li>
+  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI S&L</a></li>
+  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI ProjectAzilroka</a> for the Bezo texture</li>
+  <li><a href="https://github.com/Vicious-wow/XIV_Databar" target="_blank">XIV Databar</a></li>
+  <li><a href="https://www.curseforge.com/wow/addons/weakauras-2" target="_blank">Weak Auras</a></li>
+  <li><a href="https://wago.io/IconSkins" target="_blank">WA for Icon Skinning</a></li>
   </ul>
 <hr>
 <h2>Installation guide:</h2>
