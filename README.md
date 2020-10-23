@@ -1,12 +1,12 @@
 # toxi-ui
 <h1>Warning! I am playing on 1440p 27", so when you import your profile, play around with UI scale</h1>
 <hr>
-<img src="https://i.imgur.com/6fqvuFH.png" width="100%">
+<a href="https://github.com/Toxicom/toxi-ui"><img src="https://i.imgur.com/6fqvuFH.png" width="100%"></a>
 <b>This is my personal edit of ElvUI!</b>
 I am not familiar with LUA coding, so if something doesn't work, I doubt I can help you, lol.
 <hr>
 <a href="https://github.com/Toxicom/toxi-ui/releases"><img src="https://github.com/Toxicom/toxi-ui/blob/main/downloads.png" width="100%"></a>
-<p style="text-align:center">To download my ElvUI profile, head to <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> <b>or click the image above</b> and grab the version you like the most!</p>
+<p>To download my ElvUI profile, head to <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> <b>or click the image above</b> and grab the version you like the most!</p>
 <hr>
 <h3><s>SharedMedia AddOn is still not updated for Shadowlands Pre-patch, therefore we have to import fonts manually via ElvUI. Every time you update ElvUI, you have to add fonts again.. If there's an easier way for that, lemme know.</s> From version v1.3 I changed fonts, no longer needed to manually upload fonts yourself!</h3>
 <hr>
@@ -23,7 +23,7 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
   <li><a href="https://wago.io/IconSkins" target="_blank">WA for Icon Skinning</a></li>
   </ul>
 <hr>
-<img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%">
+<a href="#"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
 <ol>
   <li>Install the necessary addons</li>
   <li>Download necessary files from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
