@@ -5,7 +5,8 @@
 <b>This is my personal edit of ElvUI!</b>
 I am not familiar with LUA coding, so if something doesn't work, I doubt I can help you, lol.
 <hr>
-<h2>To download my ElvUI profile, head to <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> and grab the version you like the most!</h2>
+<img src="https://github.com/Toxicom/toxi-ui/blob/main/downloads.png">
+<h3>To download my ElvUI profile, head to <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> or click the image above and grab the version you like the most!</h3>
 <hr>
 <h3><s>SharedMedia AddOn is still not updated for Shadowlands Pre-patch, therefore we have to import fonts manually via ElvUI. Every time you update ElvUI, you have to add fonts again.. If there's an easier way for that, lemme know.</s> From version v1.3 I changed fonts, no longer needed to manually upload fonts yourself!</h3>
 <hr>
