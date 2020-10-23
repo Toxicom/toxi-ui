@@ -24,6 +24,7 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
   </ul>
 <hr>
 <a href="#"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
+<p>Click the image above to watch the <b>Installation Guide</b> <a href="#">Video!</a></p>
 <ol>
   <li>Install the necessary addons</li>
   <li>Download necessary files from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
