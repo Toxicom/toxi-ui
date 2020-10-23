@@ -23,8 +23,8 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
   <li><a href="https://wago.io/IconSkins" target="_blank">WA for Icon Skinning</a></li>
   </ul>
 <hr>
-<a href="#"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
-<h2>Click the image above to watch the Installation Guide <a href="#">Video!</a></h2>
+<a href="https://www.youtube.com/watch?v=4XGbCJ1zjT8"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
+<h2>Click the image above to watch the Installation Guide <a href="https://www.youtube.com/watch?v=4XGbCJ1zjT8">Video!</a></h2>
 <ol>
   <li>Install the necessary addons</li>
   <li>Download necessary files from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
