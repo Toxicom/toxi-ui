@@ -1,12 +1,12 @@
 # toxi-ui
 <h1>Warning! I am playing on 1440p 27", so when you import your profile, play around with UI scale</h1>
 <hr>
-<a href="https://github.com/Toxicom/toxi-ui"><img src="https://i.imgur.com/6fqvuFH.png" width="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://i.imgur.com/6fqvuFH.png" width="100%"></a>
 <b>This is my personal edit of ElvUI!</b>
 I am not familiar with LUA coding, so if something doesn't work, I doubt I can help you, lol.
 <hr>
-<a href="https://github.com/Toxicom/toxi-ui/releases"><img src="https://github.com/Toxicom/toxi-ui/blob/main/downloads.png" width="100%"></a>
-<p>To download my ElvUI profile, head to <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> <b>or click the image above</b> and grab the version you like the most!</p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases"><img src="https://github.com/Toxicom/toxi-ui/blob/main/downloads.png" width="100%"></a>
+<p>To download my ElvUI profile, head to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> <b>or click the image above</b> and grab the version you like the most!</p>
 <hr>
 <h3>From version v1.3 I changed fonts, no longer needed to manually upload fonts yourself!</h3>
 <hr>
@@ -23,8 +23,8 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
   <li><a href="https://wago.io/IconSkins" target="_blank">WA for Icon Skinning</a></li>
   </ul>
 <hr>
-<a href="https://www.youtube.com/watch?v=4XGbCJ1zjT8"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
-<h2>Click the image above to watch the Installation Guide <a href="https://www.youtube.com/watch?v=4XGbCJ1zjT8">Video!</a></h2>
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=4XGbCJ1zjT8"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
+<h2>Click the image above to watch the Installation Guide <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=4XGbCJ1zjT8">Video!</a></h2>
 <ol>
   <li>Install the necessary addons</li>
   <li>Download necessary files from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
