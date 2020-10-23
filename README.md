@@ -24,8 +24,8 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 <hr>
 <h2>Installation guide:</h2>
 <ol>
+  <li>Install the necessary addons</li>
   <li>Download necessary files from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
-  <li>Add the <s>2</s> <b>1</b> <s>fonts</s> <b>font</b> to <b>\World of Warcraft\_retail_\Interface\AddOns\ElvUI\Media\Fonts</b></li>
   <li>Import the profiles of <b>ElvUI, ElvUI (private), Details!, Plater</b></li>
   <li>Import the <a href="https://wago.io/IconSkins">Icon Skins</a> Weak Aura</li>
   <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
