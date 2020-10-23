@@ -7,7 +7,7 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 <hr>
 <h2>To download my ElvUI profile, head to <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> and grab the version you like the most!</h2>
 <hr>
-<h3>SharedMedia AddOn is still not updated for Shadowlands Pre-patch, therefore we have to import fonts manually via ElvUI. Every time you update ElvUI, you have to add fonts again.. If there's an easier way for that, lemme know.</h3>
+<h3><s>SharedMedia AddOn is still not updated for Shadowlands Pre-patch, therefore we have to import fonts manually via ElvUI. Every time you update ElvUI, you have to add fonts again.. If there's an easier way for that, lemme know.</s> From version v1.3 I changed fonts, no longer needed to manually upload fonts yourself!</h3>
 <hr>
 <h2><b>YOU WILL NEED THESE ADDONS!</b></h2>
 <h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
@@ -26,18 +26,11 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 <ol>
   <li>Download necessary files from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
   <li>Add the <s>2</s> <b>1</b> <s>fonts</s> <b>font</b> to <b>\World of Warcraft\_retail_\Interface\AddOns\ElvUI\Media\Fonts</b></li>
-  <li><ul>Font installation
-
-<li>If this is a fresh ElvUI install and you're not afraid to break anything:
-  <b>add SharedMedia.lua to \World of Warcraft\_retail_\Interface\AddOns\ElvUI\Media\</b></li>
-<li>If you're afraid to lose some of your ElvUI profiles etc.:
-  <b>open up SharedMedia.lua and manually add the font line, like this:</b></li></li></ul>
-  
- ```
-  AddMedia('font','BebasNeue-Regular.ttf',			'Bebas Neue')
- ```
- <li>Import the profiles of <b>ElvUI, Details!, Plater</b></li>
- <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
+  <li>Import the profiles of <b>ElvUI, ElvUI (private), Details!, Plater</b></li>
+  <li>Import the <a href="https://wago.io/IconSkins">Icon Skins</a> Weak Aura</li>
+  <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
+  <li>Customise to your own preferences</li>
+  <li>Enjoy</li>
  </ol>
 <hr>
 <h3>To enable UnitFrames fading back:</h3>
