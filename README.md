@@ -1,7 +1,7 @@
 # toxi-ui
 <h1>Warning! I am playing on 1440p 27", so when you import your profile, play around with UI scale</h1>
 <hr>
-<img src="https://i.imgur.com/6fqvuFH.png">
+<a href="https://github.com/Toxicom/toxi-ui/releases"><img src="https://i.imgur.com/6fqvuFH.png"></a>
 <b>This is my personal edit of ElvUI!</b>
 I am not familiar with LUA coding, so if something doesn't work, I doubt I can help you, lol.
 <hr>
