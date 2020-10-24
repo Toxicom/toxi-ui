@@ -51,3 +51,5 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 <li>Navigate to Action Bars -> Player Bars</li>
 <li>Enable <b>Inherit Global Fade</b> for every bar that you want to fade</li>
 </ol>
+<hr>
+<p>I am doing all of this for free, so if you feel like you want to support me, you can do it via <a href="http://paypal.me/toxiui>PayPal</a></p>
