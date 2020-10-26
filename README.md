@@ -3,7 +3,7 @@
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://i.imgur.com/6fqvuFH.png" width="100%"></a>
 <b>This is my personal edit of ElvUI!</b>
-I am not familiar with LUA coding, so if something doesn't work, I doubt I can help you, lol.
+I am not familiar with LUA coding, so if something doesn't work, I doubt I can help you, lol. Scroll down for some pictures of the UI.
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/T7J4mNv"><img src="https://github.com/Toxicom/toxi-ui/blob/main/discord.png" width="100%"></a>
 <h2>If you have any questions, please visit my <a href="https://discord.gg/T7J4mNv">Discord channel</a> where you will get the quickest and best support!</a></h2>
@@ -53,3 +53,8 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 </ol>
 <hr>
 <p>I am doing all of this for free, so if you feel like you want to support me, you can do it via <a href="http://paypal.me/toxiui">PayPal</a></p>
+<hr>
+<img src="https://i.imgur.com/p6bJzZG.jpeg" width="100%">
+<img src="https://i.imgur.com/KHhW4h2.jpeg" width="100%">
+<img src="https://i.imgur.com/5zOn2bq.jpeg" width="100%">
+<img src="https://i.imgur.com/QeAhFh5.jpeg" width="100%">
