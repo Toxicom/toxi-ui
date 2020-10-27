@@ -1,4 +1,4 @@
-# toxi-ui
+# Toxi UI | Created by the community for the community
 <h1>Warning! I am playing on 1440p 27", so when you import your profile, play around with UI scale</h1>
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://i.imgur.com/6fqvuFH.png" width="100%"></a>
@@ -17,21 +17,23 @@ I am not familiar with LUA coding, so if something doesn't work, I doubt I can h
 <h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
 <ul>
   <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI</a></li>
+  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI S&L</a></li>
+  <li><a href="https://www.curseforge.com/wow/addons/sharedmedia" target="_blank">SharedMedia</a></li>
+  <li><b>!Important!</b> <a href="https://github.com/Toxicom/toxi-ui/raw/main/Interface.rar" target="_blank">SharedMedia_ToxiUI</a> for the textures and fonts</li>
   <li><a href="https://www.curseforge.com/wow/addons/details" target="_blank">Details! Damage Meter</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates" target="_blank">Plater</a></li>
-  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI S&L</a></li>
-  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI ProjectAzilroka</a> for the Bezo texture</li>
   <li><a href="https://github.com/Vicious-wow/XIV_Databar" target="_blank">XIV Databar</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/weakauras-2" target="_blank">Weak Auras</a></li>
-  <li><a href="https://wago.io/IconSkins" target="_blank">WA for Icon Skinning</a></li>
   </ul>
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=4XGbCJ1zjT8"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
 <h2>Click the image above to watch the Installation Guide <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=4XGbCJ1zjT8">Video!</a></h2>
 <ol>
   <li>Install the necessary addons</li>
-  <li>Download necessary files from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
-  <li>Import the profiles of <b>ElvUI, ElvUI (private), Details!, Plater</b></li>
+  <li>Download <a href="https://github.com/Toxicom/toxi-ui/raw/main/Interface.rar" target="_blank">SharedMedia_ToxiUI</a></li>
+  <li>Extract SharedMedia_ToxiUI.rar contents to .../World of Warcraft/_retail/</li>
+  <li>Download latest version from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
+  <li>Import the profiles of <ul><li>ElvUI</li> <li>ElvUI (private)</li> <li>Details!</li> <li>Plater</li></ul></li>
   <li>Import the <a href="https://wago.io/IconSkins">Icon Skins</a> Weak Aura</li>
   <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
   <li>Customise to your own preferences</li>
