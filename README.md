@@ -1,5 +1,5 @@
 # Toxi UI | Created by the community for the community
-<h1>Warning! I am playing on 1440p 27", so when you import your profile, play around with UI scale</h1>
+<h2>Warning! I am playing on 1440p 27", so when you import your profile, play around with UI scale! By default, it should be at 0.64</h2>
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://i.imgur.com/6fqvuFH.png" width="100%"></a>
 <b>This is my personal edit of ElvUI!</b>
