@@ -7,7 +7,7 @@
 <h2>If you have any questions, please visit my <a href="https://discord.gg/T7J4mNv">Discord channel</a> where you will get the quickest and best support!</a></h2>
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases"><img src="https://github.com/Toxicom/toxi-ui/blob/main/downloads.png" width="100%"></a>
-<p>To download my ElvUI profile, head to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> <b>or click the image above</b> and grab the version you like the most!</p>
+<h2>To download my ElvUI profile, head to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> <b>or click the image above</b> and grab the version you like the most!</h2>
 <hr>
 <h3>From October 27th, 2020 I have uploaded a SharedMedia plugin, we no longer need to use ProjectAzilroka.</h3>
 <hr>
