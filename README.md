@@ -9,7 +9,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases"><img src="https://github.com/Toxicom/toxi-ui/blob/main/downloads.png" width="100%"></a>
 <p>To download my ElvUI profile, head to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> <b>or click the image above</b> and grab the version you like the most!</p>
 <hr>
-<h3>From version v1.3 I changed fonts, no longer needed to manually upload fonts yourself!</h3>
+<h3>From October 27th, 2020 I have uploaded a SharedMedia plugin, we no longer need to use ProjectAzilroka.</h3>
 <hr>
 <h2><b>YOU WILL NEED THESE ADDONS!</b></h2>
 <h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
