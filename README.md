@@ -55,8 +55,12 @@
 </ol>
 <hr>
 <p>I am doing all of this for free, so if you feel like you want to support me, you can do it via <a href="http://paypal.me/toxiui">PayPal</a></p>
+<h3>Huge thank you to these people for supporting me in what I do!!!!</h3>
+<ul>
+  <li>Thavez</li>
+</ul>
 <hr>
-<img src="https://i.imgur.com/p6bJzZG.jpeg" width="100%">
-<img src="https://i.imgur.com/KHhW4h2.jpeg" width="100%">
-<img src="https://i.imgur.com/5zOn2bq.jpeg" width="100%">
-<img src="https://i.imgur.com/QeAhFh5.jpeg" width="100%">
+<img src="https://i.imgur.com/7knGRmT.jpg" width="100%">
+<img src="https://i.imgur.com/QyX0zoy.jpg" width="100%">
+<img src="https://i.imgur.com/pl1WbLr.jpg" width="100%">
+<img src="https://i.imgur.com/5zPMs45.jpg" width="100%">
