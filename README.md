@@ -17,7 +17,7 @@
   <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI</a></li>
   <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI S&L</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/sharedmedia" target="_blank">SharedMedia</a></li>
-  <li><b>!Important!</b> <a href="https://github.com/Toxicom/toxi-ui/raw/main/Interface.rar" target="_blank">SharedMedia_ToxiUI</a> for the textures and fonts</li>
+  <li><a href="https://github.com/Toxicom/toxi-ui/raw/main/Interface.rar" target="_blank">SharedMedia_ToxiUI</a> <b><--- CLICK HERE TO DOWNLOAD</b></li>
   <li><a href="https://www.curseforge.com/wow/addons/details" target="_blank">Details! Damage Meter</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates" target="_blank">Plater</a></li>
   <li><a href="https://github.com/Vicious-wow/XIV_Databar" target="_blank">XIV Databar</a> <b><--- CLICK HERE TO DOWNLOAD</b>, DO NOT DOWNLOAD FROM TWITCH</li>
