@@ -26,7 +26,7 @@
   <li><a href="https://www.curseforge.com/wow/addons/masque-darkscail" target="_blank">Masque: Darkscail</a> (optional)</li>
   </ul>
 <hr>
-<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=4XGbCJ1zjT8"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=iEzTY3i0T4Q"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
 <h2>Click the image above to watch the Installation Guide <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=4XGbCJ1zjT8">Video!</a> (a bit oudated, don't use ProjectAzilroka anymore)</h2>
 <ol>
   <li>Install the necessary addons</li>
