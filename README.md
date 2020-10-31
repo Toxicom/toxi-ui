@@ -15,7 +15,7 @@
 <h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
 <ul>
   <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI</a></li>
-  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI S&L</a></li>
+  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI Shadow & Light</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/sharedmedia" target="_blank">SharedMedia</a></li>
   <li><a href="https://github.com/Toxicom/toxi-ui/raw/main/Interface.rar" target="_blank">SharedMedia_ToxiUI</a> <b><--- CLICK HERE TO DOWNLOAD</b></li>
   <li><a href="https://www.curseforge.com/wow/addons/details" target="_blank">Details! Damage Meter</a></li>
