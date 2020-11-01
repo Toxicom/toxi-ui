@@ -58,6 +58,7 @@
 <h3>Huge thank you to these people for supporting me in what I do!!!!</h3>
 <ul>
   <li>Thavez</li>
+  <li>Auros</li>
 </ul>
 <hr>
 <img src="https://i.imgur.com/7knGRmT.jpg" width="100%">
