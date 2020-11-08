@@ -17,7 +17,6 @@
   <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI</a></li>
   <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI Shadow & Light</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/sharedmedia" target="_blank">SharedMedia</a></li>
-  <li><a href="https://github.com/Toxicom/toxi-ui/raw/main/Interface.rar" target="_blank">SharedMedia_ToxiUI</a> <b><--- CLICK HERE TO DOWNLOAD</b></li>
   <li><a href="https://www.curseforge.com/wow/addons/details" target="_blank">Details! Damage Meter</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates" target="_blank">Plater</a></li>
   <li><a href="https://github.com/Vicious-wow/XIV_Databar" target="_blank">XIV Databar</a> <b><--- CLICK HERE TO DOWNLOAD</b>, DO NOT DOWNLOAD FROM TWITCH</li>
@@ -30,10 +29,9 @@
 <h2>Click the image above to watch the Installation Guide <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=4XGbCJ1zjT8">Video!</a></h2>
 <ol>
   <li>Install the necessary addons</li>
-  <li>Download <a href="https://github.com/Toxicom/toxi-ui/raw/main/Interface.rar" target="_blank">SharedMedia_ToxiUI</a></li>
-  <li>Extract SharedMedia_ToxiUI.rar contents to .../World of Warcraft/_retail/</li>
   <li>Download latest version from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
-  <li>Import the profiles of <ul><li>ElvUI</li> <li>ElvUI (private)</li> <li>Details!</li> <li>Plater</li></ul></li>
+  <li>Extract SharedMedia_ToxiUI.rar contents to .../World of Warcraft/_retail/</li>
+  <li>Import the profiles of <ul><li>ElvUI</li> <li>ElvUI Character Settings</li> <li>Details!</li> <li>Plater</li></ul></li>
   <li>Import the <a href="https://wago.io/IconSkins">Icon Skins</a> Weak Aura</li>
   <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
   <li>Customise to your own preferences</li>
