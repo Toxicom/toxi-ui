@@ -30,7 +30,7 @@
 <ol>
   <li>Install the necessary addons</li>
   <li>Download latest version from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
-  <li>Extract SharedMedia_ToxiUI.rar contents to .../World of Warcraft/_retail/</li>
+  <li>Extract <b>SharedMedia_ToxiUI</b> to<b> .../World of Warcraft/_retail/Interface/AddOns/</b></li>
   <li>Import the profiles of <ul><li>ElvUI</li> <li>ElvUI Character Settings</li> <li>Details!</li> <li>Plater</li></ul></li>
   <li>Import the <a href="https://wago.io/IconSkins">Icon Skins</a> Weak Aura</li>
   <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
