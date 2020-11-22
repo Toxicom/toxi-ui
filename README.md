@@ -61,6 +61,7 @@
   <li>Auros</li>
   <li>v0dKa</li>
   <li>Horjer/Berjerh-Josh</li>
+  <li><a href="https://www.twitch.tv/tekay_y">Jack</a></li>
 </ul>
 <hr>
 <img src="https://i.imgur.com/7knGRmT.jpg" width="100%">
