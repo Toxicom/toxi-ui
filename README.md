@@ -11,6 +11,7 @@
 <hr>
 <h3>From October 27th, 2020 I have uploaded a SharedMedia plugin, we no longer need to use ProjectAzilroka.</h3>
 <h3>From November 11th, 2020 I have uploaded SharedMedia_ToxiUI to CurseForge, so you can update via AddOn managers!</h3>
+<h3>From Patch v2.2, I'm using Glass addon for chat, therefore ElvUI chat will be disabled by default when you import it!</h3>
 <hr>
 <h2><b>YOU WILL NEED THESE ADDONS!</b></h2>
 <h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
