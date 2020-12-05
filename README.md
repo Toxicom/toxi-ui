@@ -33,8 +33,8 @@
 <ol>
   <li>Install the necessary addons</li>
   <li>Download latest version from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
-  <li>Extract <b>SharedMedia_ToxiUI</b> to<b> .../World of Warcraft/_retail/Interface/AddOns/</b></li>
-  <li>Import the profiles of <ul><li>ElvUI</li> <li>ElvUI Character Settings</li> <li>Details!</li> <li>Plater</li></ul></li>
+  <li><b>IF YOU ARE USING BIG WIGS</b> - put the <b>BigWigs.lua</b> and <b>BigWigs.lua.bak</b> to \World of Warcraft\_retail_\WTF\Account\<b>YOURACCOUNTNAME</b>\SavedVariables\
+  <li>Import the profiles of <ul><li>ElvUI</li> <li>ElvUI Private</li> <li>Details!</li> <li>Plater</li></ul></li>
   <li>Import the <a href="https://wago.io/IconSkins">Icon Skins</a> Weak Aura</li>
   <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
   <li>Customise to your own preferences</li>
@@ -65,7 +65,7 @@
   <li><a href="https://www.twitch.tv/tekay_y">Jack</a></li>
 </ul>
 <hr>
-<img src="https://i.imgur.com/7knGRmT.jpg" width="100%">
-<img src="https://i.imgur.com/QyX0zoy.jpg" width="100%">
-<img src="https://i.imgur.com/pl1WbLr.jpg" width="100%">
-<img src="https://i.imgur.com/5zPMs45.jpg" width="100%">
+<img src="https://i.imgur.com/qo02xGU.jpg" width="100%">
+<img src="https://i.imgur.com/slim2Ld.jpg" width="100%">
+<img src="https://i.imgur.com/0wXy76x.jpg" width="100%">
+<img src="https://i.imgur.com/prxcI5A.jpg" width="100%">
