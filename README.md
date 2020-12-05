@@ -25,7 +25,7 @@
   <li><a href="https://github.com/Vicious-wow/XIV_Databar" target="_blank">XIV Databar</a> <b><--- CLICK HERE TO DOWNLOAD</b>, DO NOT DOWNLOAD FROM TWITCH</li>
   <li><a href="https://www.curseforge.com/wow/addons/weakauras-2" target="_blank">Weak Auras</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Masque</a> (optional)</li>
-  <li><a href="https://www.curseforge.com/wow/addons/masque-darkscail" target="_blank">Masque: Darkscail</a> (optional)</li>
+  <li><a href="https://www.curseforge.com/wow/addons/masque-squat" target="_blank">Masque: Squat</a> (optional)</li>
   </ul>
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=iEzTY3i0T4Q"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
