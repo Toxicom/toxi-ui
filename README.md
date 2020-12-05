@@ -42,20 +42,6 @@
   <li>Enjoy</li>
  </ol>
 <hr>
-<h3>To enable UnitFrames fading back:</h3>
-<ol>
-<li>Type /ec</li>
-<li>Navigate to UnitFrames -> Individual Units -> Player -> Fader</li>
-<li>Check <b>Enable</b></li>
-<li>Repeat the same for Unitframes -> Individual Units -> <b>Target</b> -> Fader</li>
-</ol>
-<h3>To enable ActionBars fading back:</h3>
-<ol>
-<li>Type /ec</li>
-<li>Navigate to Action Bars -> Player Bars</li>
-<li>Enable <b>Inherit Global Fade</b> for every bar that you want to fade</li>
-</ol>
-<hr>
 <p>I am doing all of this for free, so if you feel like you want to support me, you can do it via <a href="http://paypal.me/toxiui">PayPal</a></p>
 <h3>Huge thank you to these people for supporting me in what I do!!!!</h3>
 <ul>
