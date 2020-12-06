@@ -12,6 +12,7 @@
 <h3>From October 27th, 2020 I have uploaded a SharedMedia plugin, we no longer need to use ProjectAzilroka.</h3>
 <h3>From November 11th, 2020 I have uploaded SharedMedia_ToxiUI to CurseForge, so you can update via AddOn managers!</h3>
 <h3>From Patch v2.2, I'm using Glass addon for chat, therefore ElvUI chat will be disabled by default when you import it!</h3>
+<h3>From Patch v3.0.2 stopped using Glass</h3>
 <hr>
 <h2><b>YOU WILL NEED THESE ADDONS!</b></h2>
 <h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
@@ -24,7 +25,6 @@
   <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates" target="_blank">Plater</a></li>
   <li><a href="https://github.com/Vicious-wow/XIV_Databar" target="_blank">XIV Databar</a> <b><--- CLICK HERE TO DOWNLOAD</b>, DO NOT DOWNLOAD FROM TWITCH</li>
   <li><a href="https://www.curseforge.com/wow/addons/weakauras-2" target="_blank">Weak Auras</a></li>
-  <li><a href="https://www.curseforge.com/wow/addons/glass" target="_blank">Glass</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Masque</a> (optional)</li>
   <li><a href="https://www.curseforge.com/wow/addons/masque-squat" target="_blank">Masque: Squat</a> (optional)</li>
   </ul>
@@ -50,6 +50,7 @@
   <li>v0dKa</li>
   <li>Horjer/Berjerh-Josh</li>
   <li><a href="https://www.twitch.tv/tekay_y">Jack</a></li>
+  <li>adin28</li>
 </ul>
 <hr>
 <img src="https://i.imgur.com/qo02xGU.jpg" width="100%">
