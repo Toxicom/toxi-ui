@@ -29,8 +29,8 @@
   <li><a href="https://www.curseforge.com/wow/addons/masque-squat" target="_blank">Masque: Squat</a> (optional)</li>
   </ul>
 <hr>
-<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=iEzTY3i0T4Q"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
-<h2>Click the image above to watch the Installation Guide <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=iEzTY3i0T4Q">Video!</a></h2>
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FTc7MJJVmAw"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
+<h2>Click the image above to watch the Installation Guide <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FTc7MJJVmAw">Video!</a></h2>
 <ol>
   <li>Install the necessary addons</li>
   <li>Download latest version from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
