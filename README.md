@@ -52,6 +52,7 @@
   <li><a href="https://www.twitch.tv/tekay_y">Jack</a></li>
   <li>adin28</li>
   <li>Todd</li>
+  <li>Commodore_Tony</li>
   <li>Vizinho</li>
 </ul>
 <hr>
