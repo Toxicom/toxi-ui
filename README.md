@@ -1,7 +1,7 @@
 # Toxi UI | Created by the community for the community
-<h2>Warning! I am playing on 1440p 27", so when you import your profile, play around with UI scale! By default, it should be at 0.64</h2>
-<hr>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://i.imgur.com/6fqvuFH.png" width="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://github.com/Toxicom/toxi-ui/blob/main/welcome.png" width="100%"></a>
+<h2>Welcome to the GitHub page for ToxiUI!</h2>
+<h3>This UI is meant to be played at 1440p resolution 27" monitor, but should also work for 1080p! Keep the UI scale at 0.64</h3>
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/T7J4mNv"><img src="https://github.com/Toxicom/toxi-ui/blob/main/discord.png" width="100%"></a>
 <h2>If you have any questions, please visit my <a href="https://discord.gg/T7J4mNv">Discord channel</a> where you will get the quickest and best support!</a></h2>
