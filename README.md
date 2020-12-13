@@ -1,5 +1,5 @@
 # Toxi UI | Created by the community for the community
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://github.com/Toxicom/toxi-ui/blob/main/welcome.png" width="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://github.com/Toxicom/toxi-ui/blob/main/welcome.png"></a>
 <h2>Welcome to the GitHub page for ToxiUI!</h2>
 <h3>This UI is meant to be played at 1440p resolution 27" monitor, but should also work for 1080p! Keep the UI scale at 0.64</h3>
 <hr>
