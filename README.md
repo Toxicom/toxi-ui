@@ -17,8 +17,8 @@
 <h2><b>YOU WILL NEED THESE ADDONS!</b></h2>
 <h3>I recommend using <a href="https://wowup.io/">wowup.io</a> for managing your addons.</h3>
 <ul>
-  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI</a></li>
-  <li><a href="https://www.tukui.org/download.php?client=win" target="_blank">ElvUI Shadow & Light</a></li>
+  <li><a href="https://www.tukui.org/download.php?ui=elvui" target="_blank">ElvUI</a></li>
+  <li><a href="https://www.tukui.org/addons.php?id=38" target="_blank">ElvUI Shadow & Light</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/sharedmedia" target="_blank">SharedMedia</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/sharedmedia_toxiui" target="_blank">SharedMedia_ToxiUI</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/details" target="_blank">Details! Damage Meter</a></li>
