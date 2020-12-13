@@ -42,7 +42,8 @@
   <li>Enjoy</li>
  </ol>
 <hr>
-<p>I am doing all of this for free, so if you feel like you want to support me, you can do it via <a href="http://paypal.me/toxiui">PayPal</a></p>
+<a href="http://paypal.me/toxiui"><img src="https://github.com/Toxicom/toxi-ui/blob/main/donate.png"></a>
+<h2>I am doing all of this for free, so if you feel like you want to support me, you can do it via <a href="http://paypal.me/toxiui">PayPal</a></h2>
 <h3>Huge thank you to these people for supporting me in what I do!!!!</h3>
 <ul>
   <li>Thavez</li>
