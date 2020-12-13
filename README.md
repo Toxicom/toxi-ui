@@ -3,10 +3,10 @@
 <h2>Welcome to the GitHub page for ToxiUI!</h2>
 <h3>This UI is meant to be played at 1440p resolution 27" monitor, but should also work for 1080p! Keep the UI scale at 0.64</h3>
 <hr>
-<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/T7J4mNv"><img src="https://github.com/Toxicom/toxi-ui/blob/main/discord.png" width="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://discord.gg/T7J4mNv"><img src="https://github.com/Toxicom/toxi-ui/blob/main/discord.png"></a>
 <h2>If you have any questions, please visit my <a href="https://discord.gg/T7J4mNv">Discord channel</a> where you will get the quickest and best support!</a></h2>
 <hr>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases"><img src="https://github.com/Toxicom/toxi-ui/blob/main/downloads.png" width="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases"><img src="https://github.com/Toxicom/toxi-ui/blob/main/downloads.png"></a>
 <h2>To download my profile, head to <a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui/releases">Releases</a> <b>or click the image above</b> and grab the version you like the most!</h2>
 <hr>
 <h3>From October 27th, 2020 I have uploaded a SharedMedia plugin, we no longer need to use ProjectAzilroka.</h3>
@@ -29,7 +29,7 @@
   <li><a href="https://www.curseforge.com/wow/addons/masque-squat" target="_blank">Masque: Squat</a> (optional)</li>
   </ul>
 <hr>
-<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FTc7MJJVmAw"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FTc7MJJVmAw"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png"></a>
 <h2>Click the image above to watch the Installation Guide <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FTc7MJJVmAw">Video!</a></h2>
 <ol>
   <li>Install the necessary addons</li>
