@@ -26,7 +26,7 @@
   <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates" target="_blank">Plater</a></li>
   <li><a href="https://github.com/Vicious-wow/XIV_Databar" target="_blank">XIV Databar</a> <b><--- CLICK HERE TO DOWNLOAD</b>, DO NOT DOWNLOAD FROM TWITCH</li>
   <li><a href="https://www.curseforge.com/wow/addons/weakauras-2" target="_blank">Weak Auras</a></li>
-  <li><a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Masque</a> <i>(optional)</li></li>
+  <li><a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Masque</a> <i>(optional)</i></li>
   <li><a href="https://www.curseforge.com/wow/addons/masque-squat" target="_blank">Masque: Squat</a> <i>(optional)</i></li>
   </ul>
 <hr>
