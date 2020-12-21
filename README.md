@@ -19,14 +19,15 @@
 <ul>
   <li><a href="https://www.tukui.org/download.php?ui=elvui" target="_blank">ElvUI</a></li>
   <li><a href="https://www.tukui.org/addons.php?id=38" target="_blank">ElvUI Shadow & Light</a></li>
+  <li><a href="https://www.tukui.org/addons.php?id=112" target="_blank">ElvUI_GlobalFadePersist</a> <i>(optional)</i></li>
   <li><a href="https://www.curseforge.com/wow/addons/sharedmedia" target="_blank">SharedMedia</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/sharedmedia_toxiui" target="_blank">SharedMedia: ToxiUI</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/details" target="_blank">Details! Damage Meter</a></li>
   <li><a href="https://www.curseforge.com/wow/addons/plater-nameplates" target="_blank">Plater</a></li>
   <li><a href="https://github.com/Vicious-wow/XIV_Databar" target="_blank">XIV Databar</a> <b><--- CLICK HERE TO DOWNLOAD</b>, DO NOT DOWNLOAD FROM TWITCH</li>
   <li><a href="https://www.curseforge.com/wow/addons/weakauras-2" target="_blank">Weak Auras</a></li>
-  <li><a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Masque</a> (optional)</li>
-  <li><a href="https://www.curseforge.com/wow/addons/masque-squat" target="_blank">Masque: Squat</a> (optional)</li>
+  <li><a href="https://www.curseforge.com/wow/addons/masque" target="_blank">Masque</a> <i>(optional)</li></li>
+  <li><a href="https://www.curseforge.com/wow/addons/masque-squat" target="_blank">Masque: Squat</a> <i>(optional)</i></li>
   </ul>
 <hr>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=FTc7MJJVmAw"><img src="https://github.com/Toxicom/toxi-ui/blob/main/install-guide.png" width="100%"></a>
