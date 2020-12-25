@@ -39,7 +39,7 @@
   <li>Import the profiles of <ul><li>ElvUI</li> <li>ElvUI Private</li> <li>Details!</li> <li>Plater</li></ul></li>
   <li>Import the <a href="https://wago.io/IconSkins">Icon Skins</a> Weak Aura</li>
   <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
-  <li>Customise to your own preferences</li>
+  <li><a href="https://www.youtube.com/watch?v=uhFeo_p-TuM">Customise to your own preferences</a></li>
   <li>Enjoy</li>
  </ol>
 <hr>
