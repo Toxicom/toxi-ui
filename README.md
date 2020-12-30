@@ -35,7 +35,11 @@
 <ol>
   <li>Install the necessary addons</li>
   <li>Download latest version from <a href="https://github.com/Toxicom/toxi-ui/releases">Releases</a></li>
-  <li><b>IF YOU ARE USING BIG WIGS</b> - put the <b>BigWigs.lua</b> and <b>BigWigs.lua.bak</b> to \World of Warcraft\_retail_\WTF\Account\<b>YOURACCOUNTNAME</b>\SavedVariables\
+  <li>
+    <ul>
+      <li><b>IF YOU ARE USING BIG WIGS</b> - put the <b>BigWigs.lua</b> and <b>BigWigs.lua.bak</b> to \World of Warcraft\_retail_\WTF\Account\<b>YOURACCOUNTNAME</b>\SavedVariables\</li>
+      <li><b>IF YOU ARE USING DBM</b> - Open up /dbm in chat and import the profile string from <b>DBM Profile Beta.txt</b></li>
+    </ul>
   <li>Import the profiles of <ul><li>ElvUI</li> <li>ElvUI Private</li> <li>Details!</li> <li>Plater</li></ul></li>
   <li>Import the <a href="https://wago.io/IconSkins">Icon Skins</a> Weak Aura</li>
   <li>Get the Weak Auras profiles from <a href="https://luxthos.com">Luxthos</a></li>
