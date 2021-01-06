@@ -64,6 +64,7 @@
   <li>Nerph</li>
   <li>Andreas K.</li>
   <li>josh90</li>
+  <li>Configt</li>
 </ul>
 <hr>
 <img src="https://i.imgur.com/qo02xGU.jpg" width="100%">
