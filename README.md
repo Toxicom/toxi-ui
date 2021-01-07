@@ -1,5 +1,6 @@
 # Toxi UI | Created by the community for the community
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Toxicom/toxi-ui"><img src="https://github.com/Toxicom/toxi-ui/blob/main/welcome.png" width="100%"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.tukui.org/addons.php?id=199"><img src="https://github.com/Toxicom/toxi-ui/blob/main/welcome.png" width="100%"></a>
+<h1><a target="_blank" rel="noopener noreferrer" href="https://www.tukui.org/addons.php?id=199">I HAVE MOVED ON TO TUKUI, THIS GITHUB PAGE WILL NO LONGER BE SUPPORTED. YOU CAN FIND THE MOST UPDATED INFORMATION ON MY DISCORD SERVER WHICH YOU CAN FIND BELOW!</a></h1>
 <h2>Welcome to the GitHub page for ToxiUI!</h2>
 <h3>This UI is meant to be played at 1440p resolution 27" monitor, but should also work for 1080p! Keep the UI scale at 0.64</h3>
 <hr>
@@ -66,6 +67,7 @@
   <li>josh90</li>
   <li>Configt</li>
   <li>Franny</li>
+  <li>Grimm</li>
 </ul>
 <hr>
 <img src="https://i.imgur.com/qo02xGU.jpg" width="100%">
