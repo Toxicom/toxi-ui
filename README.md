@@ -1,5 +1,5 @@
 <h1><a target="_blank" rel="noopener noreferrer" href="https://toxiui.com">I HAVE MOVED ON TO TUKUI, THIS GITHUB PAGE WILL NO LONGER BE SUPPORTED. YOU CAN FIND THE MOST UPDATED INFORMATION ON MY DISCORD SERVER WHICH YOU CAN FIND BELOW! I HAVE ALSO MADE A WEBSITE - WWW.TOXIUI.COM THAT YOU CAN VISIT FOR INFORMATION!</a></h1>
-<hr><hr><hr><hr><hr><hr><hr>
+<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
 <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/T7J4mNv"><img src="https://github.com/Toxicom/toxi-ui/blob/main/discord.png" width="100%"></a>
 <h2>If you have any questions, please visit my <a href="https://discord.gg/T7J4mNv">Discord channel</a> where you will get the quickest and best support!</a></h2>
 <hr>
